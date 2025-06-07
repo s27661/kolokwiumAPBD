@@ -17,4 +17,5 @@ public class Subscription
     public double Price { get; set; }
     
     public virtual ICollection<Sale> Sales { get; set; }
+    public virtual ICollection<Payment> Payments { get; set; }
 }

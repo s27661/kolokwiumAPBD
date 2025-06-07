@@ -23,4 +23,9 @@ public class DbService(KolokwiumDbContext context) : IDbService
         }).ToListAsync();
 
     }
+
+    public async Task<PaymentCreateDto> CreatePaymentAsync(PaymentCreateDto payment)
+    {
+        throw new NotImplementedException();
+    }
 }

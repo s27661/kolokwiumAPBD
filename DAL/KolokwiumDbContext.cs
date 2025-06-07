@@ -8,6 +8,7 @@ public class KolokwiumDbContext : DbContext
     public DbSet<Client> Clients { get; set; }
     public DbSet<Sale> Sales { get; set; }
     public DbSet<Subscription> Subscriptions { get; set; }
+    public DbSet<Payment> Payments { get; set; }
     
     protected KolokwiumDbContext()
     {

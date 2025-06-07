@@ -16,4 +16,5 @@ public class Client
     public string PhoneNumber { get; set; }
     
     public virtual ICollection<Sale> Sales { get; set; }
+    public virtual ICollection<Payment> Payments { get; set; }
 }

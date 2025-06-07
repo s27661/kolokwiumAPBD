@@ -142,3 +142,4 @@ Z:\APDB\Kolokwium\obj\Debug\net8.0\refint\Kolokwium.dll
 Z:\APDB\Kolokwium\obj\Debug\net8.0\Kolokwium.pdb
 Z:\APDB\Kolokwium\obj\Debug\net8.0\Kolokwium.genruntimeconfig.cache
 Z:\APDB\Kolokwium\obj\Debug\net8.0\ref\Kolokwium.dll
+Z:\APDB\Kolokwium\obj\Debug\net8.0\Kolokwium.sourcelink.json
